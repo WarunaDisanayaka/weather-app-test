@@ -21,8 +21,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
-   
-
     "faker": "^6.6.6",
     "gapi-script": "^1.2.0",
     "html2canvas": "^1.4.1",
@@ -30,21 +28,13 @@
     "material-react-table": "^1.0.0-beta.9",
     "moment": "^2.29.4",
     "react": "^18.2.0",
- 
-   
- 
     "react-confirm-alert": "^3.0.6",
-   
     "react-loader-spinner": "^6.1.6",
-
+    "react-query": "^3.39.3",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "react-select": "^5.4.0",
     "react-select-search": "^3.0.10"
-  
-  
-   
-  
   },
   "scripts": {
     "start": "react-scripts start",
